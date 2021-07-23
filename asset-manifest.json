@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/RestoMyWork/static/css/main.64f9a69d.chunk.css",
+    "main.js": "/RestoMyWork/static/js/main.f4bcccb7.chunk.js",
+    "main.js.map": "/RestoMyWork/static/js/main.f4bcccb7.chunk.js.map",
+    "runtime~main.js": "/RestoMyWork/static/js/runtime~main.3a31382f.js",
+    "runtime~main.js.map": "/RestoMyWork/static/js/runtime~main.3a31382f.js.map",
+    "static/js/2.4d2f8cbb.chunk.js": "/RestoMyWork/static/js/2.4d2f8cbb.chunk.js",
+    "static/js/2.4d2f8cbb.chunk.js.map": "/RestoMyWork/static/js/2.4d2f8cbb.chunk.js.map",
+    "index.html": "/RestoMyWork/index.html",
+    "precache-manifest.c1e18867cb87289de142a7de6890eb81.js": "/RestoMyWork/precache-manifest.c1e18867cb87289de142a7de6890eb81.js",
+    "service-worker.js": "/RestoMyWork/service-worker.js",
+    "static/css/main.64f9a69d.chunk.css.map": "/RestoMyWork/static/css/main.64f9a69d.chunk.css.map",
+    "static/media/food-bg.jpg": "/RestoMyWork/static/media/food-bg.698e5e80.jpg",
+    "static/media/shopping-cart-solid.svg": "/RestoMyWork/static/media/shopping-cart-solid.701d6d1d.svg"
+  }
+}
